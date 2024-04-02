@@ -25,6 +25,7 @@ Hey there! I'm a software developer with a thing for building web applications f
 - TailwindCSS
 - NPM
 - Vite
+- Webpack
 - Firebase
 
 ## 📈 GitHub Stats
@@ -38,7 +39,7 @@ Hey there! I'm a software developer with a thing for building web applications f
 
 ### 🎯 Future Goals
 
-I aim to contribute to open source projects, expand my knowledge in Developing Modern web Applications and Software as well as dive in deep into immersive software experiences, interactive simulations, and applications in the AR and VR space, and connect with like-minded individuals in the tech community.
+I aim to contribute to open source projects, expand my knowledge in developing softwares and modern web applications as well as dive in deep into immersive experiences, interactive simulations, and applications in the AR and VR space, and connect with like-minded individuals in the tech community.
 Feel free to connect with me for exciting collaborations, discussions, or just to say hi! Let's learn and grow together. 😊
 
 
