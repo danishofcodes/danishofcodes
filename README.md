@@ -1,0 +1,48 @@
+# 👋 Hi there, I'm Danish!
+Hey there! I'm a software developer with a thing for building web applications from scratch to finish. I'm especially excited about what's new in  React.js, Python, Artificial Intelligence and Node.js these days.  In fact, I'm always tinkering with personal projects that focus on creating useful webapp and tools
+## 🚀 About Me
+
+- 🔭 I’m currently working on building various personal projects , ranging from Library Management system to Metrocity AQI data visualization webapp, making fun hobby music player 🎧 to a interractive dooodling board 🎨.
+- 👯 I’m looking to collaborate on projects that involve **Open Source Software Contributions, Data Visualizations using Charts and Graphs, Cloud Operations and AI integrations**, to work with great team mates and learn more while I do.
+- 💬 Ask me about : JavaScript, Java, NodeJS, ExpressJS, TypeScript, FrontEnd Development, UI/UX,  DBMS, SQL, NoSQL,  Dinosaurs and blackholes.
+- 📫 How to reach me:
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdul-danish-38b5942a7)
+- 😄 Pronouns: he/him/Martian in next life
+- ⚡ Fun fact: I can make really awesome coffee and spend the rest of the day sketching out whatever comes to my mind!
+
+## 🔧 Technologies & Tools
+
+- React JS
+- JavaScript (JS)
+- TypeScript (TS)
+- Python
+- Java
+- JQuery
+- Node.js + Express.js
+- REST API
+- Postman
+- Bootstrap
+- TailwindCSS
+- NPM
+- Vite
+- Firebase
+
+## 📈 GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danishofcodes&layout=compact)](https://github.com/yourusername)
+
+## 🤝 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/abdul-danish-38b5942a7/)
+
+
+### 🎯 Future Goals
+
+I aim to contribute to open source projects, expand my knowledge in Developing Modern web Applications and Software as well as dive in deep into immersive software experiences, interactive simulations, and applications in the AR and VR space, and connect with like-minded individuals in the tech community.
+Feel free to connect with me for exciting collaborations, discussions, or just to say hi! Let's learn and grow together. 😊
+
+
+<!---
+danishofcodes/danishofcodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
