@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Danish!
-Hey there! I'm a software developer with a thing for building web applications from scratch to finish. I'm especially excited about what's new in  React.js, Python, Artificial Intelligence and Node.js these days.  In fact, I'm always tinkering with personal projects that focus on creating useful webapp and tools
+Hey there! I'm a software developer with a knack for building web applications from scratch to finish. I'm especially excited about what's new in  React.js, Python, Artificial Intelligence and Node.js these days.  In fact, I'm always tinkering with personal projects that focus on creating useful webapp and tools
 ## 🚀 About Me
 
 - 🔭 I’m currently working on building various personal projects , ranging from Library Management system to Metrocity AQI data visualization webapp, making fun hobby music player 🎧 to a interractive dooodling board 🎨.
