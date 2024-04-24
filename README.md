@@ -15,7 +15,7 @@ Hey there! I'm a developer with a knack for building web applications from scrat
 - React JS
 - JavaScript (JS)
 - TypeScript (TS)
-- Node.js + Express.js
+- Node + Express.js
 - Mongoose / MongoDB
 - JQuery
 - REST API
