@@ -2,7 +2,7 @@
 Hey there! I'm a developer with a knack for building web applications from scratch to finish. I'm especially excited about what's new in  React.js, Python, Artificial Intelligence and Node.js these days.  In fact, I'm always tinkering with personal projects that focus on creating useful webapp and tools
 ## 🚀 About Me
 
-- 🔭 I’m currently working on building various personal projects , ranging from Library Management system to Metrocity AQI data visualization webapp, making fun hobby music player 🎧 to a interractive dooodling board 🎨.
+- 🔭 I’m currently working on building various enterprise/client and personal projects, ranging from Human Resource Management System Applications at my present Company, to personal projects like Library Management system to Metrocity AQI data visualization webapp etc.
 - 👯 I’m looking to collaborate on projects that involve **Open Source Software Contributions, Data Visualizations using Charts and Graphs, Cloud Operations and AI integrations**, to work with great team mates and learn more while I do.
 - 💬 Ask me about : JavaScript, Java, NodeJS, ExpressJS, TypeScript, FrontEnd Development, UI/UX,  DBMS, SQL, NoSQL,  Dinosaurs and blackholes.
 - 📫 How to reach me:
