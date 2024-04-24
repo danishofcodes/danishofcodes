@@ -15,12 +15,13 @@ Hey there! I'm a developer with a knack for building web applications from scrat
 - React JS
 - JavaScript (JS)
 - TypeScript (TS)
-- Python
-- Java
-- JQuery
 - Node.js + Express.js
+- Mongoose / MongoDB
+- JQuery
 - REST API
 - Postman
+- Java
+- Python
 - Bootstrap
 - TailwindCSS
 - NPM
