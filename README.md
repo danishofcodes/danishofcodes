@@ -31,7 +31,7 @@ Hey there! I'm a developer with a knack for building web applications from scrat
 
 ## 📈 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danishofcodes&layout=compact)](https://github.com/yourusername)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danishofcodes&layout=compact)](https://github.com/danishofcodes/)
 
 ## 🤝 Connect with Me
 
