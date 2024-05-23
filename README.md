@@ -3,7 +3,7 @@ Hey there! I'm a developer with a knack for building web applications from scrat
 ## 🚀 About Me
 
 - 🔭 I’m currently working on building various enterprise/client and personal projects, ranging from Human Resource Management System Applications at my present Company, to personal projects using technologies such as  `React`  `JS JavaScript (JS)` `Node + Express.js` `MongoDB+Mongoose` `JQuery` `REST API`  `Bootstrap` `TailwindCSS`
-- 🤝 I’m looking to collaborate on projects that involve **Open Source Software Contributions, Data Visualizations using Charts and Graphs, Cloud Operations and AI integrations**, to work with great team mates and learn more while I do.
+- 🤝 I’m looking to collaborate on projects that involve ** MERN Stack, MEAN Stack, Software Development , Open Source Software Contributions, Data Visualizations using Charts and Graphs, Cloud Operations and Chatbot and AI integrations**, to work with great team mates and learn more while I do.
 - 💬 Ask me about : JavaScript, Java, NodeJS, ExpressJS, TypeScript, FrontEnd Development, UI/UX,  DBMS, SQL, NoSQL,  Dinosaurs and blackholes.
 - 📫 How to reach me:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdul-danish-38b5942a7)
