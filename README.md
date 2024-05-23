@@ -12,22 +12,7 @@ Hey there! I'm a developer with a knack for building web applications from scrat
 
 ## 🔧 Technologies & Tools
 
-- React JS
-- JavaScript (JS)
-- TypeScript (TS)
-- Node + Express.js
-- Mongoose / MongoDB
-- JQuery
-- REST API
-- Postman
-- Java
-- Python
-- Bootstrap
-- TailwindCSS
-- NPM
-- Vite
-- Webpack
-- Firebase
+ `React`  `JS JavaScript (JS)` `TypeScript (TS)` `Node + Express.js` `MongoDB+Mongoose` `JQuery` `REST API` `Postman` `Java` `Python` `Bootstrap` `TailwindCSS` `NPM` `Vite` `Webpack` `Firebase`
 
 ## 📈 GitHub Stats
 
