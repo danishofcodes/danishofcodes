@@ -2,7 +2,7 @@
 Hey there! I'm a developer with a knack for building web applications from scratch to finish. I'm especially excited about what's new in  React.js, Python, Artificial Intelligence and Node.js these days.  always tinkering with personal projects that focus on creating webapp and tools
 ## 🚀 Quick Links To Some Of My Projects
 [![MetroCity AQI](https://img.shields.io/badge/metrocityAQI-0A66C2?style=for-the-badge&logo=ko-fi&logoColor=white)](https://danishofcodes.github.io/metrocityAQI/)
-[![My Todo](https://img.shields.io/badge/myTodoApp-fd7e14?style=for-the-badge&logo=ko-fi&logoColor=white)]((https://danishofcodes.github.io/myTodoApp/))
+[![My Todos](https://img.shields.io/badge/myTodoApp-fd7e14?style=for-the-badge&logo=ko-fi&logoColor=white)](https://danishofcodes.github.io/myTodoApp/)
 [![Spotify Clone](https://img.shields.io/badge/Spotify_Clone-1ed760?style=for-the-badge&logo=ko-fi&logoColor=white)](https://danishofcodes.github.io/Spotify-Clone/)
 [![Library MS](https://img.shields.io/badge/library_ms-185365?style=for-the-badge&logo=ko-fi&logoColor=white)](https://danishofcodes.github.io/LibraryMS/)
 
