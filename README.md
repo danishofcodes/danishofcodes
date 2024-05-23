@@ -1,10 +1,14 @@
 # 👋 Hi there, I'm Danish!
 Hey there! I'm a developer with a knack for building web applications from scratch to finish. I'm especially excited about what's new in  React.js, Python, Artificial Intelligence and Node.js these days.  always tinkering with personal projects that focus on creating webapp and tools
-## 🚀 Quick Links 
-https://danishofcodes.github.io/metrocityAQI/
-https://danishofcodes.github.io/myTodoApp/
-https://danishofcodes.github.io/Spotify-Clone/
-https://danishofcodes.github.io/LibraryMS/
+## 🚀 Quick Links To Some Of My Projects
+[![Library MS](https://img.shields.io/badge/metrocityAQI-0A66C2?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://katherineoelsner.com/](https://danishofcodes.github.io/metrocityAQI/))
+[![Library MS](https://img.shields.io/badge/myTodoApp-fd7e14?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://katherineoelsner.com/](https://danishofcodes.github.io/myTodoApp/))
+[![Library MS](https://img.shields.io/badge/Spotify_Clone-1ed760?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://katherineoelsner.com/](https://danishofcodes.github.io/Spotify-Clone/))
+[![Library MS](https://img.shields.io/badge/library_ms-185365?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://katherineoelsner.com/](https://danishofcodes.github.io/LibraryMS/))
+
+
+
+
 ## 🚀 About Me
 
 - 🔭 I’m currently working on building various enterprise/client and personal projects, ranging from Human Resource Management System Applications at my present Company, to personal projects using technologies such as  `React`  `JS JavaScript (JS)` `Node + Express.js` `MongoDB+Mongoose` `JQuery` `REST API`  `Bootstrap` `TailwindCSS`
