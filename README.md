@@ -3,7 +3,7 @@ Hey there! I'm a developer with a knack for building web applications from scrat
 ## 🚀 Quick Links To Some Of My Projects
 
 [![Survey Feeds](https://img.shields.io/badge/Survey_Feeds-3cb0c8?style=for-the-badge&logo=ko-fi&logoColor=white)](https://danishofcodes.github.io/surveyfeeds/)
-[![Forms And Validation](https://img.shields.io/badge/Forms_And_Validation-185365?style=for-the-badge&logo=ko-fi&logoColor=white)](https://danishofcodes.github.io/FormsAndAalidation/)
+[![Forms And Validation](https://img.shields.io/badge/Forms_And_Validation-185365?style=for-the-badge&logo=ko-fi&logoColor=white)](https://danishofcodes.github.io/FormsAndValidation/)
 [![Gamer Wyre](https://img.shields.io/badge/GamerWyre-801dff?style=for-the-badge&logo=ko-fi&logoColor=white)](https://danishofcodes.github.io/GamerWyre/)
 [![Crypt My Texts](https://img.shields.io/badge/Crypt_My_Texts-0A66C2?style=for-the-badge&logo=ko-fi&logoColor=white)](https://danishofcodes.github.io/CryptMyTexts/)
 [![My Todos](https://img.shields.io/badge/my_Todo_App-fd7e14?style=for-the-badge&logo=ko-fi&logoColor=white)](https://danishofcodes.github.io/myTodoApp/)
