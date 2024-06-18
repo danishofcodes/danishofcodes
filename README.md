@@ -2,7 +2,7 @@
 Hey there! I'm a developer with a knack for building web applications from scratch to finish. I'm especially excited about what's new in  React.js, Python, Artificial Intelligence and Node.js these days.  always tinkering with personal projects that focus on creating webapp and tools
 ## 🚀 Quick Links To Some Of My Projects
 
-[![Feedback Surveyor](https://img.shields.io/badge/Feedback_Surveyor-3cb0c8?style=for-the-badge&logo=ko-fi&logoColor=white)](https://danishofcodes.github.io/feedbacksurveyor/)
+[![SurveyBubble](https://img.shields.io/badge/SurveyBubble-3cb0c8?style=for-the-badge&logo=ko-fi&logoColor=white)](https://danishofcodes.github.io/SurveyBubble/)
 [![Forms And Validation](https://img.shields.io/badge/Forms_And_Validation-185365?style=for-the-badge&logo=ko-fi&logoColor=white)](https://danishofcodes.github.io/FormsAndValidation/)
 [![Gamer Wyre](https://img.shields.io/badge/GamerWyre-801dff?style=for-the-badge&logo=ko-fi&logoColor=white)](https://danishofcodes.github.io/GamerWyre/)
 [![Crypt My Texts](https://img.shields.io/badge/Crypt_My_Texts-0A66C2?style=for-the-badge&logo=ko-fi&logoColor=white)](https://danishofcodes.github.io/CryptMyTexts/)
