@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Danish!
-Hey there! I'm a developer with a knack for building web applications from scratch to finish. I'm especially excited about what's new in  React.js, Python, Artificial Intelligence and Node.js these days.  always tinkering with personal projects that focus on creating webapp and tools
+Hey there! I'm a software developer with a knack for building web applications from scratch to finish. I'm especially excited about what's new in  React.js, Python, Artificial Intelligence and Node.js these days.  always tinkering with personal projects that focus on creating webapp and tools
 ## 🚀 Quick Links To Some Of My Projects
 
 [![SurveyBubble](https://img.shields.io/badge/SurveyBubble-3cb0c8?style=for-the-badge&logo=ko-fi&logoColor=white)](https://danishofcodes.github.io/SurveyBubble/)
