@@ -23,7 +23,7 @@ a software developer with a knack for building web applications from scratch to 
 - 📫 How to reach me:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdul-danish-38b5942a7)
 
-- ⚡ Fun fact: I can make really awesome coffee and when at leisure I can spend the rest of the day sketching/doodling out whatever comes to my mind or spend watching horror, sci-fi and marvel-dc movies late night Lol!
+- ⚡ Fun fact: I can make really awesome coffee and when at leisure I can spend the rest of the day sketching/doodling out whatever comes to my mind or spend watching horror, sci-fi and marvel-dc movies late night Lol! I also like to follow the concept of unplanned sudden trips because thats adventurous (and friends get no chance to say no to it on the last day like planned trips LOL)
 
 ## 🔧 Technologies & Tools
 
