@@ -3,8 +3,8 @@ a software developer with a knack for building web applications from scratch to 
 ## 🚀 Quick Links To Some Of My Projects
 
 
-[![theDictionaryApp](https://img.shields.io/badge/theDictionaryApp-#aa5ce7?style=for-the-badge&logo=ko-fi&logoColor=white)](https://danishofcodes.github.io/theDictionaryApp/)
-[![Linkvibes](https://img.shields.io/badge/Linkvibes-#1dafad?style=for-the-badge&logo=ko-fi&logoColor=white)](https://danishofcodes.github.io/linkvibes/)
+[![theDictionaryApp](https://img.shields.io/badge/theDictionaryApp-aa5ce7?style=for-the-badge&logo=ko-fi&logoColor=white)](https://danishofcodes.github.io/theDictionaryApp/)
+[![Linkvibes](https://img.shields.io/badge/Linkvibes-1dafad?style=for-the-badge&logo=ko-fi&logoColor=white)](https://danishofcodes.github.io/linkvibes/)
 [![SurveyBubble](https://img.shields.io/badge/SurveyBubble-3cb0c8?style=for-the-badge&logo=ko-fi&logoColor=white)](https://danishofcodes.github.io/SurveyBubble/)
 [![Forms And Validation](https://img.shields.io/badge/Forms_And_Validation-185365?style=for-the-badge&logo=ko-fi&logoColor=white)](https://danishofcodes.github.io/FormsAndValidation/)
 [![Gamer Wyre](https://img.shields.io/badge/GamerWyre-801dff?style=for-the-badge&logo=ko-fi&logoColor=white)](https://danishofcodes.github.io/GamerWyre/)
