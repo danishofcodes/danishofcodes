@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Danish!
-a software developer with a knack for building web applications from scratch to finish. I'm especially excited about what's new in the world of Javascript, Python and Augumented Reality.  always tinkering with personal projects that focus on creating webapp and tools.
+a software developer with a knack for building full stack web applications. I'm especially excited about what's new in the world of Javascript, Python and Augumented Reality.  always tinkering with personal projects that focus on creating webapp and tools.
 ## 🚀 Quick Links To Some Of My Projects
 
 
