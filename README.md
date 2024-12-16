@@ -18,7 +18,7 @@ A software developer with a knack for building full stack web applications. I'm 
 ## 🚀 About Me
 
 - 🔭 I’m currently working on building various enterprise/client and personal projects, ranging from Staffing and Human Resource Management System Applications at my present Company, to personal projects using technologies such as  `React`  `JS JavaScript (JS)` `Node + Express.js` `MongoDB+Mongoose` `MySql` `JQuery` `REST API`  `Bootstrap` `TailwindCSS` `Postman`
-- 🤝 I’had worked on projects that involve **MERN and MEAN Stack, Data Visualizations using Python, Charts and Graphs using libraries such as chartjs and D3js, and also Chatbots**, and looking forward I want to work with great team mates and learn more while I do.
+- 🤝I have worked on projects using the MERN stack, React.js, Next.js, jQuery, and REST APIs, and I’m eager to collaborate with a talented team to continue learning and growing in my field.
 - 💬 Ask me about : JavaScript, Java, Python, NodeJS, ExpressJS,  TypeScript, FrontEnd Development, UI/UX, Backend Development, DBMS, SQL, NoSQL,  Dinosaurs and blackholes.
 - 📫 How to reach me:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdul-danish-38b5942a7)
