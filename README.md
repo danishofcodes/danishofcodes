@@ -1,6 +1,7 @@
 # 👋 Hi there, I'm Danish!
 A software developer with a knack for building full stack web applications. I'm especially excited about what's new in the world of Javascript.  always tinkering with personal projects that focus on creating webapp and tools.
--[My Portfolio](https://danishofcodes.netlify.app)
+
+View my projects demo at -[My Portfolio](https://danishofcodes.netlify.app)
 ## 🚀 About Me
 
 - 🔭 I’m currently working on building various enterprise/client and personal projects, ranging from Staffing and Human Resource Management System Applications at my present Company, to personal projects using technologies such as  `React`  `JS JavaScript (JS)` `Node + Express.js` `MongoDB+Mongoose` `MySql` `JQuery` `REST API`  `Bootstrap` `TailwindCSS` `Postman`
