@@ -1,19 +1,5 @@
 # 👋 Hi there, I'm Danish!
 A software developer with a knack for building full stack web applications. I'm especially excited about what's new in the world of Javascript.  always tinkering with personal projects that focus on creating webapp and tools.
-## 🚀 Quick Links To Some Of My Projects
-
-
-[![theDictionaryApp](https://img.shields.io/badge/theDictionaryApp-aa5ce7?style=for-the-badge&logo=ko-fi&logoColor=white)](https://danishofcodes.github.io/theDictionaryApp/)
-[![Linkvibes](https://img.shields.io/badge/Linkvibes-1dafad?style=for-the-badge&logo=ko-fi&logoColor=white)](https://danishofcodes.github.io/linkvibes/)
-[![SurveyBubble](https://img.shields.io/badge/SurveyBubble-3cb0c8?style=for-the-badge&logo=ko-fi&logoColor=white)](https://danishofcodes.github.io/SurveyBubble/)
-[![Forms And Validation](https://img.shields.io/badge/Forms_And_Validation-185365?style=for-the-badge&logo=ko-fi&logoColor=white)](https://danishofcodes.github.io/FormsAndValidation/)
-[![Gamer Wyre](https://img.shields.io/badge/GamerWyre-801dff?style=for-the-badge&logo=ko-fi&logoColor=white)](https://danishofcodes.github.io/GamerWyre/)
-[![Crypt My Texts](https://img.shields.io/badge/Crypt_My_Texts-0A66C2?style=for-the-badge&logo=ko-fi&logoColor=white)](https://danishofcodes.github.io/CryptMyTexts/)
-[![My Todos](https://img.shields.io/badge/my_Todo_App-fd7e14?style=for-the-badge&logo=ko-fi&logoColor=white)](https://danishofcodes.github.io/myTodoApp/)
-[![MetroCity AQI](https://img.shields.io/badge/metrocity_AQI-14B8A6?style=for-the-badge&logo=ko-fi&logoColor=white)](https://danishofcodes.github.io/metrocityAQI/)
-[![Spotify Clone](https://img.shields.io/badge/Spotify_Clone-1ed760?style=for-the-badge&logo=ko-fi&logoColor=white)](https://danishofcodes.github.io/Spotify-Clone/)
-[![Library MS](https://img.shields.io/badge/library_ms-185365?style=for-the-badge&logo=ko-fi&logoColor=white)](https://danishofcodes.github.io/LibraryMS/)
-
 
 ## 🚀 About Me
 
