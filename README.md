@@ -1,38 +1,61 @@
-# 👋 Hi there, I'm Danish!
-A software developer with a knack for building full stack web applications. I'm especially excited about what's new in the world of Javascript.  always tinkering with personal projects that focus on creating webapp and tools.
+# 👋 Hi, I'm Danish
 
-View my project's live demo at -[My Portfolio](https://danishofcodes.netlify.app)
+I'm a Software Engineer who genuinely enjoys building things especially with JavaScript.  
+Most of the time, you’ll find me working on side projects, experimenting with new ideas,  
+or fixing something that broke at the worst possible time.
+
+🌐 **Portfolio:** https://danishofcodes.netlify.app
+
+---
+
 ## 🚀 About Me
 
-- 🔭 I’m currently working on building various enterprise/client and personal projects, ranging from Staffing and Human Resource Management System Applications at my present Company, to personal projects using technologies such as  `React`  `JS JavaScript (JS)` `Node + Express.js` `MongoDB+Mongoose` `MySql` `JQuery` `REST API`  `Bootstrap` `TailwindCSS` `Postman`
-- 🤝I have worked on projects using the MERN stack, React.js, Next.js, jQuery, and REST APIs, and I’m eager to collaborate with a talented team to continue learning and growing in my field.
-- 💬 Ask me about : JavaScript, Java, Python, NodeJS, ExpressJS,  TypeScript, FrontEnd Development, UI/UX, Backend Development, DBMS, SQL, NoSQL,  Dinosaurs and blackholes.
-- 📫 How to reach me:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdul-danish-38b5942a7)
+- 🔭 I’m always building — web apps, tools, or anything that sparks curiosity  
+- 🔌 Currently diving into **IoT & electronics** (Arduino, embedded systems, and beyond)  
+- 💬 Ask me about **JavaScript, Node.js, React, Next.js, GraphQL**  
+- 🌌 Also into random deep topics like **dinosaurs, space, and black holes**  
+- ⚡ Outside coding: sketching, late-night horror/sci-fi/Marvel marathons, and making great coffee  
 
-- ⚡ Fun fact: I can make really awesome coffee and when at leisure I can spend the rest of the day sketching/doodling out whatever comes to my mind or spend watching horror, sci-fi and marvel-dc movies late night Lol!
+---
 
-## 🔧 Technologies & Tools
+## 🛠️ Tech Stack
 
- `React`  `JS JavaScript (JS)` `TypeScript (TS)` `Node + Express.js` `MongoDB+Mongoose` `JQuery` `REST API` `Postman` `Java` `Python` `Bootstrap` `TailwindCSS` `NPM` `Vite` `Webpack` `Firebase` `Github` `Git` `Linux`
+**Frontend**  
+`React` `Next.js` `Tailwind CSS` 
+
+**Backend**  
+`Node.js` `Express` `GraphQL` `REST APIs` `JWT auth`
+
+**Database & Tools**  
+`PostgreSQL` `MongoDB` `Docker` `WebSockets` `Zapier` `Figma` `Vercel` `Netlify`
+
+---
+
+## 🔌 Currently Exploring
+
+- Arduino & Electronics  
+- IoT Systems  
+- Embedded Programming  
+
+---
 
 ## 📈 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danishofcodes&layout=compact)](https://github.com/danishofcodes/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danishofcodes&layout=compact&hide_border=true)
+
+---
 
 ## 🤝 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/abdul-danish-38b5942a7/)
+- 💼 LinkedIn: https://www.linkedin.com/in/abdul-danish-38b5942a7
 
+---
 
-### 🎯 Future Goals
+## 🌱 Goals
 
-I aim to contribute to open source projects, because I feel that its imperative to give back to the dev community as much as I have gotten (and am still getting) to learn from them, their problems, their codes and their documentations each and everyday. In that way I believe I'll be able expand my knowledge in developing softwares and modern applications.
+I want to actively contribute to **open source** —  
+giving back to the community that helped me learn feels like the right thing to do.
 
-Feel free to connect with me!
+---
 
-
-<!---
-danishofcodes/danishofcodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+⭐ *If you like what I build, feel free to check out my projects or connect!*
