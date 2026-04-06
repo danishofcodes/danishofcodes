@@ -45,7 +45,7 @@ or fixing something that broke at the worst possible time.
 
 ## 🤝 Connect with Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/abdul-danish-38b5942a7
+- 💼 LinkedIn: https://www.linkedin.com/in/danish-sheik
 
 ---
 
