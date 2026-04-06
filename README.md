@@ -39,9 +39,7 @@ or fixing something that broke at the worst possible time.
 
 ---
 
-## 📈 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danishofcodes&layout=compact&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=danishofcodes)](https://git.io/streak-stats)
 
 ---
 
